@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
-- 👯 Currently, I’m looking for a job as a Full Stack / Frontend / Backend Developer
+- 👀 Currently, I’m looking for a job as a Full Stack / Frontend / Backend Developer
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/16fyPdaD4kF32LHCfp5KjyuMofex6JAOo?usp=sharing)
 
