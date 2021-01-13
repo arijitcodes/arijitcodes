@@ -50,17 +50,14 @@
 #
 
 <p align="left">
-
 <h3 align="left">Connect with me:</h3>
-<br />
+
 <a href="https://linkedin.com/in/arijitban" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="arijitban" height="30" width="40" /></a>
 <a href="https://instagram.com/arijit.codes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="arijit.codes" height="30" width="40" /></a>
 <a href="https://github.com/ArijitCodes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="ArijitCodes" height="30" width="40" /></a>
 <a href="mailto:arijit.codes@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="arijit.codes@gmail.com" height="30" width="40" /></a>
 
 </p>
-
-<br />
 
 <p>
 
@@ -77,9 +74,8 @@
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
-<br />
 
-<p style="margin-left: 2px">
+<p>
 
 ### Basic Frontend:
 
@@ -136,11 +132,9 @@
 
 #
 
-<br />
-
 <p>
 
-## GitHub Stats:
+<h3>GitHub Stats: </h3>
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitcodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="ArijitCodes" />
