@@ -15,8 +15,6 @@
 
 #
 
-<br />
-
 - 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com)
 
 - 🌱 I’m currently learning: **literally everything** 🤣
@@ -44,8 +42,6 @@
 - 📫 How to reach me: **arijit.codes@gmail.com**
 
 - ⚡ **Fun fact:** Along with being a developer, I am a passionate Actor and a former Cyber Security Enthusiast who loves Photography.
-
-<br />
 
 #
 
