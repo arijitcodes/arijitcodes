@@ -9,7 +9,7 @@
 ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Express&logoColor=white)
 ![image](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
 
 </div>
 
@@ -26,14 +26,6 @@
 - 👀 Currently, I’m looking for a job as a Full Stack / Frontend / Backend Developer
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/16fyPdaD4kF32LHCfp5KjyuMofex6JAOo?usp=sharing)
-
-<!--
-- ![image](https://img.shields.io/badge/Current%20Stack-MERN-42f5e3?style=flat-square&logo=elastic-stack&logoColor=white)
-  ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Express&logoColor=white)
-  ![image](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  -->
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
