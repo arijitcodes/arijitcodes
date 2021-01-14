@@ -5,11 +5,11 @@
 
 <div align="center" style="margin-top: 3px">
 
-[![image](https://img.shields.io/badge/Current%20Stack-MERN-42f5e3?style=flat-square&logo=elastic-stack&logoColor=white)](#)
-[![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![image](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Express&logoColor=white)](https://expressjs.com)
-[![image](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![image](https://img.shields.io/badge/Current%20Stack-MERN-42f5e3?style=flat-square&logo=elastic-stack&logoColor=white "My current Stack: MERN")](#)
+[![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
+[![image](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Express&logoColor=white "ExpressJS")](https://expressjs.com)
+[![image](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB "ReactJS")](https://reactjs.org)
+[![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com)
 
 </div>
 
@@ -40,20 +40,20 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/arijitban" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="arijitban" height="30" width="40" /></a>
-<a href="https://instagram.com/arijit.codes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="arijit.codes" height="30" width="40" /></a>
-<a href="https://github.com/ArijitCodes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="ArijitCodes" height="30" width="40" /></a>
-<a href="mailto:arijit.codes@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="arijit.codes@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arijitban" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" title="LinkedIn" alt="arijitban" height="30" width="40" /></a>
+<a href="https://instagram.com/arijit.codes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" title="Instagram" alt="arijit.codes" height="30" width="40" /></a>
+<a href="https://github.com/ArijitCodes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" title="GitHub" alt="ArijitCodes" height="30" width="40" /></a>
+<a href="mailto:arijit.codes@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" title="GMail" alt="arijit.codes@gmail.com" height="30" width="40" /></a>
 
 </p>
 
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN_@arijitban-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/arijitban)](https://www.linkedin.com/in/arijitban)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_@arijit.codes-8d0eed?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/arijit.codes)](https://instagram.com/arijit.codes)
-[![GitHub Badge](https://img.shields.io/badge/-GITHUB_@arijitcodes-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ArijitCodes)](https://github.com/ArijitCodes)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN_@arijitban-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/arijitban "LinkedIn")](https://www.linkedin.com/in/arijitban)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_@arijit.codes-8d0eed?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/arijit.codes "Instagram")](https://instagram.com/arijit.codes)
+[![GitHub Badge](https://img.shields.io/badge/-GITHUB_@arijitcodes-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ArijitCodes "GitHub")](https://github.com/ArijitCodes)
 
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL_arijit.codes@gmail.com-grey?style=for-the-badge&logo=Gmail&logoColor=D14836&link=https://instagram.com/arijit.codes)](mailto:arijti.codes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL_arijit.codes@gmail.com-grey?style=for-the-badge&logo=Gmail&logoColor=D14836 "GMail")](mailto:arijti.codes@gmail.com)
 
 </p>
 
