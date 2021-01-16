@@ -15,7 +15,8 @@
 
 #
 
-- 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com)
+- 🔭 I’m currently working on: **My Portfolio**
+<!-- - 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com) -->
 
 - 🌱 I’m currently learning: **literally everything** 🤣
 
