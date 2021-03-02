@@ -15,7 +15,7 @@
 
 #
 
-- 🔭 I’m currently working on: **My Portfolio**
+- 🔭 I’m currently working on: **My Technical Skills**
 <!-- - 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com) -->
 
 - 🌱 I’m currently learning: **literally everything** 🤣
@@ -25,6 +25,8 @@
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
 - 👀 Currently, I’m looking for a job as a Full Stack / Frontend / Backend Developer
+
+- 📄 Know about me: [Checkout my Portfolio](https://arijit.themonkscode.com)
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/16fyPdaD4kF32LHCfp5KjyuMofex6JAOo?usp=sharing)
 
