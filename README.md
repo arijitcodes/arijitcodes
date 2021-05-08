@@ -28,7 +28,7 @@
 
 - 📄 Know about me: [Checkout my Portfolio](https://arijit.themonkscode.com)
 
-- 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/16fyPdaD4kF32LHCfp5KjyuMofex6JAOo?usp=sharing)
+- 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
