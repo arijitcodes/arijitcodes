@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
-- 👀 Currently, I’m looking for a job as a Full Stack / Frontend / Backend Developer
+- 👀 Currently, I’m looking for a job as a Backend / Full Stack Developer
 
 - 📄 Know about me: [Checkout my Portfolio](https://arijit.themonkscode.com)
 
