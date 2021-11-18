@@ -11,6 +11,9 @@
 [![image](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB "ReactJS")](https://reactjs.org)
 [![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com)
 
+[![image](https://img.shields.io/badge/.NET%20Core-4B0082?style=flat-square&logo=dotnet&logoColor=white "Microsoft .NET Core")](https://dotnet.microsoft.com)
+[![image](https://img.shields.io/badge/DynamoDB-2D72B8?style=flat-square&logo=amazon&logoColor=white "Amazon DynamoDB")](https://aws.amazon.com/dynamodb)
+
 </div>
 
 #
@@ -24,9 +27,11 @@
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
-- 👀 Currently, I’m looking for a job as a Backend / Full Stack Developer
+<!-- - 👀 Currently, I’m looking for a job as a Backend / Full Stack Developer -->
 
-- 📄 Know about me: [Checkout my Portfolio](https://arijit.themonkscode.com)
+- 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com)
+
+- 📄 Know about me: [Checkout my Portfolio [ iamarijit.dev ]](https://iamarijit.dev)
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
@@ -99,6 +104,13 @@
 
 <p>
 
+<a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="70" alt="Microsoft .NET" title="Microsoft .NET" /> </a> &nbsp;&nbsp;
+<a href="https://aws.amazon.com/dynamodb" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height="70" alt="Amazon DynamoDB" title="Amazon DynamoDB" /> </a>
+
+</p>
+
+<p>
+
 ### Other Technologies and Tools:
 
 <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angularjs" title="Angular 7" /> </a>
@@ -108,13 +120,15 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="55" height="55" title="GitHub" /> </a>
 </a>
 
+<a href="https://www.digitalocean.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" title="Digital Ocean" /> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" title="Heroku" /> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" title="NginX" /> </a>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" title="Linux" /> </a>
 <a href="https://www.ubuntu.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" title="Ubuntu" /> </a>
 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" title="VS Code" /> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" title="VS Code" /> </a>&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="50" alt="Visual Studio" title="Visual Studio" /> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" title="Postman" /> </a>
 
 </p>
