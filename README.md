@@ -35,7 +35,7 @@
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Start learning Web3 & Try to contribute more to Open Source projects
 
 <!-- - 💬 Ask me about **anything you want to** -->
 
@@ -106,6 +106,8 @@
 
 <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="70" alt="Microsoft .NET" title="Microsoft .NET" /> </a> &nbsp;&nbsp;
 <a href="https://aws.amazon.com/dynamodb" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height="70" alt="Amazon DynamoDB" title="Amazon DynamoDB" /> </a>
+&nbsp;&nbsp;
+<a href="https://socket.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="70" alt="Amazon DynamoDB" title="Socket.IO" /> </a>
 
 </p>
 
