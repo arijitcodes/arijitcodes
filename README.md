@@ -10,8 +10,9 @@
 [![image](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Express&logoColor=white "ExpressJS")](https://expressjs.com)
 [![image](https://img.shields.io/badge/React-303030?style=flat-square&logo=react&logoColor=61DAFB "ReactJS")](https://reactjs.org)
 [![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white "MongoDB")](https://www.mongodb.com)
+[![image](https://img.shields.io/badge/Socket.io-404D59?style=flat-square&logo=Socket.io&logoColor=white "Socket.io")](https://socket.io)
 
-[![image](https://img.shields.io/badge/.NET%20Core-4B0082?style=flat-square&logo=dotnet&logoColor=white "Microsoft .NET Core")](https://dotnet.microsoft.com)
+[![image](https://img.shields.io/badge/C%23%20.NET%20Core%20Web%20API-4B0082?style=flat-square&logo=dotnet&logoColor=white "Microsoft .NET Core Web API (C#)")](https://dotnet.microsoft.com)
 [![image](https://img.shields.io/badge/DynamoDB-2D72B8?style=flat-square&logo=amazon&logoColor=white "Amazon DynamoDB")](https://aws.amazon.com/dynamodb)
 
 </div>
@@ -22,14 +23,15 @@
 <!-- - 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com) -->
 
 - 🌱 I’m currently learning: **literally everything** 🤣
+<!-- - 🌱 I’m currently learning: **literally everything** 🤣 -->
 
 - 👨🏻‍💻‍ All of my projects are available at [https://github.com/ArijitCodes](https://github.com/ArijitCodes)
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
-<!-- - 👀 Currently, I’m looking for a job as a Backend / Full Stack Developer -->
-
 - 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com)
+
+- 👀 Also, I’m looking for a new opportunity as a Backend Developer
 
 - 📄 Know about me: [Checkout my Portfolio [ iamarijit.dev ]](https://iamarijit.dev)
 
