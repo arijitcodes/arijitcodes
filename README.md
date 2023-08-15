@@ -31,7 +31,7 @@
 
 - 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com)
 
-- 👀 Also, I’m looking for a new opportunity as a Backend Developer
+- 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an **Email** or connect with me on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that.
 
 - 📄 Know about me: [Checkout my Portfolio [ iamarijit.dev ]](https://iamarijit.dev)
 
