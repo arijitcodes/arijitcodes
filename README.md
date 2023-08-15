@@ -37,7 +37,7 @@
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
-- 🥅 2022 Goals: Start learning Web3 & Try to contribute more to Open Source projects
+- 🥅 2023 Goals: Start learning Web3 & Try to contribute more to Open Source projects
 
 <!-- - 💬 Ask me about **anything you want to** -->
 
