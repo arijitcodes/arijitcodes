@@ -19,8 +19,9 @@
 
 #
 
-- 🔭 I’m currently working on: **My Technical Skills**
-<!-- - 🔭 I’m currently working on: [**The NerdStore**](https://arijit-store.herokuapp.com) -->
+<!-- - 🔭 I’m currently working on: **My Technical Skills** -->
+
+- 🔭 I’m currently working on: Building [**UltraLogger**](https://www.npmjs.com/package/ultralogger) (NPM Package) 👨🏻‍💻 [ Links: [NPM](https://www.npmjs.com/package/ultralogger), [GitHub Repo.](https://github.com/arijitcodes/ultralogger) ]
 
 - 🌱 I’m currently learning: **literally everything** 🤣
 <!-- - 🌱 I’m currently learning: **literally everything** 🤣 -->
@@ -29,9 +30,9 @@
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
 
-- 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com)
+- 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com) [ Open to Work as well 👇🏻 ]
 
-- 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an **Email** or connect with me on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that.
+- 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an [**Email**](mailto:arijit.codes@gmail.com) (arijit.codes@gmail.com) or [connect with me](#connect-with-me) on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that.
 
 - 📄 Know about me: [Checkout my Portfolio [ iamarijit.dev ]](https://iamarijit.dev)
 
@@ -48,7 +49,8 @@
 #
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+
+### Connect with me:
 
 <a href="https://linkedin.com/in/arijitban" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" title="LinkedIn" alt="arijitban" height="30" width="40" /></a>
 <a href="https://instagram.com/arijit.codes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" title="Instagram" alt="arijit.codes" height="30" width="40" /></a>
@@ -101,11 +103,12 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" title="ExpressJS" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" title="ReactJS" /> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs"  title="NodeJS" /> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript"  title="Typescript" height="40" width="40" /> </a>
 
 </p>
 
 <p>
-
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="70" alt="C#" title="C#" /> &nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="70" alt="Microsoft .NET" title="Microsoft .NET" /> </a> &nbsp;&nbsp;
 <a href="https://aws.amazon.com/dynamodb" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height="70" alt="Amazon DynamoDB" title="Amazon DynamoDB" /> </a>
 &nbsp;&nbsp;
@@ -125,8 +128,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" title="GitHub" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="55" height="55" title="GitHub" /> </a>
 </a>
+<a href="https://www.npmjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" title="NPM" /> </a>
+</a>
 
-<a href="https://www.digitalocean.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" title="Digital Ocean" /> </a>
+<a href="https://www.digitalocean.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" title="Digital Ocean" /> </a> &nbsp;&nbsp;
+<a href="https://aws.amazon.com/ec2" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="70" style="margin-x: 2"/> </a> &nbsp;&nbsp;
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" title="Heroku" /> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" title="NginX" /> </a>
 
