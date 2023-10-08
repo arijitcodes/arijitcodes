@@ -21,7 +21,7 @@
 
 <!-- - 🔭 I’m currently working on: **My Technical Skills** -->
 
-- 🔭 I’m currently working on: Building [**UltraLogger**](https://www.npmjs.com/package/ultralogger) (NPM Package) 👨🏻‍💻 [ Links: [NPM](https://www.npmjs.com/package/ultralogger), [GitHub Repo.](https://github.com/arijitcodes/ultralogger) ]
+- 🔭 I’m currently working on: Building [**UltraLogger**](https://www.npmjs.com/package/ultralogger) (NPM Package) 👨🏻‍💻 [ Links: [NPM 📦](https://www.npmjs.com/package/ultralogger), [GitHub Repo.](https://github.com/arijitcodes/ultralogger) ]
 
 - 🌱 I’m currently learning: **literally everything** 🤣
 <!-- - 🌱 I’m currently learning: **literally everything** 🤣 -->
