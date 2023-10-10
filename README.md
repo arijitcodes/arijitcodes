@@ -154,5 +154,13 @@
 <h3>GitHub Stats: </h3>
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitcodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="ArijitCodes" />
+
+<!-- GitHub Stats -->
+
+![Arijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arijitcodes&theme=tokyonight&show_icons=true&custom_title=Arijit%27s%20GitHub%20Stats&hide=contribs)
+
+<!-- Most Used Languages Stat -->
+
+![Arijit's Most Used Languages Stat](https://github-readme-stats.vercel.app/api/top-langs?username=arijitcodes&show_icons=true&locale=en&theme=radical)
+
 </p>
