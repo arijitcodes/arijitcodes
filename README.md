@@ -23,17 +23,21 @@
 
 - 🔭 I’m currently working on:
 
-  - Building [**UltraLogger**](https://www.npmjs.com/package/ultralogger) (NPM Package) 👨🏻‍💻 [ Links: [NPM 📦](https://www.npmjs.com/package/ultralogger), [GitHub Repo.](https://github.com/arijitcodes/ultralogger) ]
-  - Building [**QuoteHive**](https://quotehive.net) 📝
+  - Building **MicroStream**
+    - [**MicroStream Hub**](https://github.com/arijitcodes/microstream-hub) 🏢
+    - [**MicroStream Client**](https://github.com/arijitcodes/microstream-client) 🚀 [ Links: [NPM 📦](https://www.npmjs.com/package/microstream-client), [GitHub Repo.](https://github.com/arijitcodes/microstream-client) ]
+  - Building **[OAuthTunnel](https://github.com/arijitcodes/OAuthTunnel)** 🌌
+  - Building [**UltraLogger**](https://www.npmjs.com/package/ultralogger) (NPM Package) 👨🏻‍💻 [ Links: [NPM 📦](https://www.npmjs.com/package/ultralogger), [GitHub Repo.](https://github.com/arijitcodes/ultralogger) ] (⏸ Paused)
+  - Building [**QuoteHive**](https://quotehive.net) 📝 (⏸ Paused)
 
 - 🌱 I’m currently learning: **literally everything** 🤣
 <!-- - 🌱 I’m currently learning: **literally everything** 🤣 -->
 
 - 👨🏻‍💻‍ All of my projects are available at [https://github.com/ArijitCodes](https://github.com/ArijitCodes)
 
-- 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com)
+- 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com) (🦗🦗🦗)
 
-- 💻 Currently, I’m working as a Software Developer (Backend) at [Zeer](https://zeersafe.com) [ Open to Work as well 👇🏻 ]
+- 💻 Currently, I’m working as a Software Developer (Backend) at [Developer Village](https://developer-village.com) [ Open to Work as well 👇🏻 ]
 
 - 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an [**Email**](mailto:arijit.codes@gmail.com) (arijit.codes@gmail.com) or [connect with me](#connect-with-me) on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that.
 
@@ -41,7 +45,7 @@
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
-- 🥅 2023 Goals: Start learning Web3 & Try to contribute more to Open Source projects
+- 🥅 2025 Goals: Learn more & Try to contribute more to Open Source projects
 
 <!-- - 💬 Ask me about **anything you want to** -->
 
@@ -135,7 +139,8 @@
 </a>
 
 <a href="https://www.digitalocean.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" title="Digital Ocean" /> </a> &nbsp;&nbsp;
-<a href="https://aws.amazon.com/ec2" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="70" style="margin-x: 2"/> </a> &nbsp;&nbsp;
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" title="AWS" height="50" style="margin-x: 2"/> </a> &nbsp;&nbsp;
+<a href="https://aws.amazon.com/s3" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="AWS S3" title="AWS S3" height="50" style="margin-x: 2"/> </a> &nbsp;&nbsp;
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" title="Heroku" /> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" title="NginX" /> </a>
 
