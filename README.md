@@ -99,6 +99,7 @@
 
 <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" title="PHP" /> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" title="MySQL" /> </a>
+<a href="https://www.phpmyadmin.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="pHPMyAdmin" title="PHPMyAdmin" /> </a>
 
 </p>
 
@@ -117,9 +118,9 @@
 <p>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="70" alt="C#" title="C#" /> &nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="70" alt="Microsoft .NET" title="Microsoft .NET" /> </a> &nbsp;&nbsp;
-<a href="https://aws.amazon.com/dynamodb" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height="70" alt="Amazon DynamoDB" title="Amazon DynamoDB" /> </a>
-&nbsp;&nbsp;
-<a href="https://socket.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="70" alt="Amazon DynamoDB" title="Socket.IO" /> </a>
+<a href="https://aws.amazon.com/dynamodb" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height="70" alt="Amazon DynamoDB" title="Amazon DynamoDB" /> </a> &nbsp;&nbsp;
+<a href="https://socket.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="70" alt="Socket.io" title="Socket.IO" /> </a> &nbsp;&nbsp;
+<a href="https://jwt.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="70" alt="JWT" title="JWT - JSON Web Token" /> </a> &nbsp;&nbsp;
 
 </p>
 
@@ -129,7 +130,6 @@
 
 <a href="https://www.docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" title="Docker" /> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" title="Redis" /> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angularjs" title="Angular 7" /> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" title="Git" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" title="GitHub" /> </a>
@@ -141,15 +141,18 @@
 <a href="https://www.digitalocean.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" alt="Digital Ocean" title="Digital Ocean" /> </a> &nbsp;&nbsp;
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" title="AWS" height="50" style="margin-x: 2"/> </a> &nbsp;&nbsp;
 <a href="https://aws.amazon.com/s3" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="AWS S3" title="AWS S3" height="50" style="margin-x: 2"/> </a> &nbsp;&nbsp;
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" title="Heroku" /> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" title="NginX" /> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" title="NginX" /> </a> &nbsp;&nbsp;
+<a href="https://nginxproxymanager.com/" target="_blank"> <img src="https://icons-for-free.com/iff/png/256/nginx+proxy+manager-1331550891378311340.png" width="55" height="55" alt="NginX Proxy Manager" title="NginX Proxy Manager" /> </a> &nbsp;&nbsp;
+<a href="https://www.portainer.io/" target="_blank"> <img src="https://icons-for-free.com/iff/png/256/portainer-1330289849773282021.png" width="55" height="55" alt="Portainer.io" title="Portainer.io" /> </a>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" title="Linux" /> </a>
 <a href="https://www.ubuntu.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" title="Ubuntu" /> </a>
 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" title="VS Code" /> </a>&nbsp;&nbsp;
-<a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="50" alt="Visual Studio" title="Visual Studio" /> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" title="Postman" /> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="50" alt="Visual Studio" title="Visual Studio" /> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/webstorm" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" height="55" width="55" alt="JetBrains WebStorm" title="JetBrains WebStorm" /> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" title="Postman" /> </a> &nbsp;&nbsp;
+<a href="https://www.apachefriends.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="55" height="55" alt="XAMPP" title="XAMPP" /> </a>
 
 </p>
 
