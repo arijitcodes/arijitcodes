@@ -110,8 +110,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" title="MongoDB" /> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" title="ExpressJS" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" title="ReactJS" /> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs"  title="NodeJS" /> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript"  title="Typescript" height="40" width="40" /> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs"  title="NodeJS" /> </a> &nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript"  title="Typescript" height="40" width="40" /> </a> &nbsp;&nbsp;
+<a href="https://jestjs.io/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="Jest"  title="Jest" height="40" width="40" /> </a>
 
 </p>
 
