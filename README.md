@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I am Arijit</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Passionate Actor | Photographer</h3>
+<h3 align="center">Software Developer | MERN Stack | Passionate Actor | Photographer</h3>
 
 <br />
 
@@ -22,7 +22,6 @@
 <!-- - 🔭 I’m currently working on: **My Technical Skills** -->
 
 - 🔭 I’m currently working on:
-
   - Building **MicroStream**
     - [**MicroStream Hub**](https://github.com/arijitcodes/microstream-hub) 🏢
     - [**MicroStream Client**](https://github.com/arijitcodes/microstream-client) 🚀 [ Links: [NPM 📦](https://www.npmjs.com/package/microstream-client), [GitHub Repo.](https://github.com/arijitcodes/microstream-client) ]
@@ -37,15 +36,17 @@
 
 - 📝 I regularly write articles on [TheMonksCode.com](https://TheMonksCode.com) (🦗🦗🦗)
 
-- 💻 Currently, I’m working as a Software Developer (Backend) at [Developer Village](https://developer-village.com) [ Open to Work as well 👇🏻 ]
+<!-- - 💻 Currently, I’m working as a Software Developer (Backend) at [Developer Village](https://developer-village.com) [ Open to Work as well 👇🏻 ] -->
 
-- 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an [**Email**](mailto:arijit.codes@gmail.com) (arijit.codes@gmail.com) or [connect with me](#connect-with-me) on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that.
+<!-- - 👀 Also, I’m **Open To Work** & **looking for a new opportunity**. So if you have any openings, please feel free to drop me an [**Email**](mailto:arijit.codes@gmail.com) (arijit.codes@gmail.com) or [connect with me](#connect-with-me) on my **[LinkedIn](https://linkedin.com/in/arijitban)**, I would really appreciate that. -->
+
+- 💻👀 I'm currently **Open To Work** & actively looking for new opportunities in **Software / Backend Engineering**. If you have any openings or would like to connect, feel free to drop me an [**Email**](mailto:arijit.codes@gmail.com) or reach out on [**LinkedIn**](https://linkedin.com/in/arijitban) - I'd really appreciate it! 🙏🏻
 
 - 📄 Know about me: [Checkout my Portfolio [ iamarijit.dev ]](https://iamarijit.dev)
 
 - 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/drive/folders/1imfxd-ZGMxfpvmSc0ubqWolq62YhA-lv?usp=sharing)
 
-- 🥅 2025 Goals: Learn more & Try to contribute more to Open Source projects
+- 🥅 2026 Goals: Learn more & Try to contribute more to Open Source projects
 
 <!-- - 💬 Ask me about **anything you want to** -->
 
