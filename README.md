@@ -79,6 +79,8 @@
 
 ### 🤖 AI-Assisted &amp; Agentic Development:
 
+<!-- JSDeliver.net 's source is: dashboardicons.com -->
+
 <!-- <a href="https://opencode.ai" target="_blank" alt="OpenCode" title="OpenCode" >
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -90,14 +92,14 @@
   </svg>
 </a> -->
 
-<a href="https://opencode.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/opencode-text.svg" alt="OpenCode" title="OpenCode" height="55" /></a>
-<a href="https://pi.dev" target="_blank"> <img src="https://pi.dev/logo.svg" alt="Pi Coding Agent" title="Pi Coding Agent" height="60" /> </a> &nbsp;&nbsp;
+<a href="https://opencode.ai" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" alt="OpenCode" title="OpenCode" height="55" /></a> &nbsp;&nbsp;
+<a href="https://pi.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-coding-agent.svg" alt="Pi Coding Agent" title="Pi Coding Agent" height="60" /> </a> &nbsp;&nbsp;
 <a href="https://openai.com/codex" target="_blank">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/codex-color.svg" alt="Codex by OpenAI" title="Codex by OpenAI" height="50" /> </a> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex by OpenAI" title="Codex by OpenAI" height="50" /> </a> &nbsp;&nbsp;
 <a href="https://github.com/features/copilot" target="_blank">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" height="55" />
+<img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" title="GitHub Copilot" height="55" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/features/copilot" target="_blank" alt="MCP - Model Context Protocol" title="MCP - Model Context Protocol" > <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/mcp.svg" height="50" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/features/copilot" target="_blank" alt="MCP - Model Context Protocol" title="MCP - Model Context Protocol" > <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="50" /> </a> &nbsp;&nbsp;
 
 </p>
 
@@ -143,8 +145,8 @@
 <a href="https://www.npmjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" title="NPM" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" title="Postman" /> </a> &nbsp;&nbsp;
 <a href="https://jwt.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="JWT" title="JWT - JSON Web Token" /> </a> &nbsp;&nbsp;
-<a href="https://nginxproxymanager.com/" target="_blank"> <img src="https://icons-for-free.com/iff/png/256/nginx+proxy+manager-1331550891378311340.png" width="40" height="40" alt="NginX Proxy Manager" title="NginX Proxy Manager" /> </a> &nbsp;&nbsp;
-<a href="https://www.portainer.io/" target="_blank"> <img src="https://icons-for-free.com/iff/png/256/portainer-1330289849773282021.png" width="40" height="40" alt="Portainer.io" title="Portainer.io" /> </a> &nbsp;&nbsp;
+<a href="https://nginxproxymanager.com/" target="_blank"> <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/nginx-proxy-manager.svg" width="40" height="40" alt="NginX Proxy Manager" title="NginX Proxy Manager" /> </a> &nbsp;&nbsp;
+<a href="https://www.portainer.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/portainer/portainer-original.svg" width="40" height="40" alt="Portainer.io" title="Portainer.io" /> </a> &nbsp;&nbsp;
 
 </p>
 
