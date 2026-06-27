@@ -94,7 +94,7 @@
 
 <a href="https://opencode.ai" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" alt="OpenCode" title="OpenCode" height="50" /></a> &nbsp;&nbsp;
 <a href="https://pi.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-coding-agent.svg" alt="Pi Coding Agent" title="Pi Coding Agent" height="60" /></a> &nbsp;&nbsp;
-<a href="https://openai.com/codex" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex by OpenAI" title="Codex by OpenAI" height="50" /></a> &nbsp;&nbsp;
+<a href="https://openai.com/codex" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" alt="Codex by OpenAI" title="Codex by OpenAI" height="50" /></a> &nbsp;&nbsp;
 <a href="https://github.com/features/copilot" target="_blank"><img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" title="GitHub Copilot" height="50" /></a> &nbsp;&nbsp;
 <a href="https://modelcontextprotocol.io" target="_blank" alt="MCP - Model Context Protocol" title="MCP - Model Context Protocol" ><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="50" /></a> &nbsp;&nbsp;
 
