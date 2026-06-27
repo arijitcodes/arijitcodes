@@ -99,7 +99,7 @@
 <a href="https://github.com/features/copilot" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub Copilot" title="GitHub Copilot" height="55" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/features/copilot" target="_blank" alt="MCP - Model Context Protocol" title="MCP - Model Context Protocol" > <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="50" /> </a> &nbsp;&nbsp;
+<a href="https://modelcontextprotocol.io" target="_blank" alt="MCP - Model Context Protocol" title="MCP - Model Context Protocol" > <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="50" /> </a> &nbsp;&nbsp;
 
 </p>
 
