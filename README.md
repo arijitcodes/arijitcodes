@@ -23,9 +23,9 @@
 
 <strong>🤖 Exploring: AI-Assisted &amp; Agentic Development</strong>
 
-[![image](https://img.shields.io/badge/OpenCode-000000?style=flat-square "OpenCode")](https://opencode.ai)
-[![image](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white "GitHub Copilot")](https://github.com/features/copilot)
-[![image](https://img.shields.io/badge/MCP%20Servers-6B46C1?style=flat-square "Model Context Protocol")](https://modelcontextprotocol.io)
+[![image](https://img.shields.io/badge/OpenCode-191616?style=flat-square&logo=opencode&logoColor=white "OpenCode")](https://opencode.ai)
+[![image](https://img.shields.io/badge/GitHub%20Copilot-43179E?style=flat-square&logo=githubcopilot&logoColor=white "GitHub Copilot")](https://github.com/features/copilot)
+[![image](https://img.shields.io/badge/MCP%20Servers-6B46C1?style=flat-square&logo=modelcontextprotocol&logoColor=white "MCP - Model Context Protocol")](https://modelcontextprotocol.io)
 [![image](https://img.shields.io/badge/ReAct%20Agents-FF6F00?style=flat-square "ReAct Loop Agents")](https://github.com/arijitcodes)
 
 <em>Hands-on with <strong>OpenCode</strong> as my daily agentic dev environment — multi-agent orchestration, MCP servers, custom tool workflows. Actively building toward Agentic AI Engineering.</em>
