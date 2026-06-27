@@ -100,8 +100,8 @@
 </a> &nbsp;&nbsp;
 <a href="https://pi.dev" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-coding-agent.svg" />
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgODAwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNjUuMjkgMTY1LjI5IEg1MTcuMzYgVjQwMCBINDAwIFY1MTcuMzYgSDI4Mi42NSBWNjM0LjcyIEgxNjUuMjkgWiBNMjgyLjY1IDI4Mi42NSBWNDAwIEg0MDAgVjI4Mi42NSBaIi8+CiAgPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTUxNy4zNiA0MDAgSDYzNC43MiBWNjM0LjcyIEg1MTcuMzYgWiIvPgo8L3N2Zz4=" alt="Pi Coding Agent" title="Pi Coding Agent" height="50" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arijitcodes/logos-and-icons/refs/heads/main/pi/logo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/arijitcodes/logos-and-icons/refs/heads/main/pi/logo-light.svg" alt="Pi Coding Agent" title="Pi Coding Agent" height="50" />
   </picture>
 </a> &nbsp;&nbsp;
 <a href="https://openai.com/codex" target="_blank">
